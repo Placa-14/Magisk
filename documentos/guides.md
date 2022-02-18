@@ -299,4 +299,4 @@ on early-init
 
 service myservice ${MAGISKTMP}/myscript.sh
     oneshot
-```
+
